@@ -1,0 +1,6 @@
+matplotlib==3.4.2
+networkx==3.1
+numpy==1.17.4
+Pillow==9.5.0 # If on python 3.10 otherwise 7.0.0
+tqdm==4.66.1
+scipy
